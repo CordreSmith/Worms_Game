@@ -1,4 +1,4 @@
-# hello-world
+# Information
 
 Hi fellow Git-hubians
 
