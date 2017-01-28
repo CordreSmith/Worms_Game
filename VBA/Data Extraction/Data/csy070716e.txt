@@ -1,0 +1,524 @@
+                                        
+DISPLAY EVENTS           
+Event Type   : All       All            
+Latest Events: 999
+After        : 30/05/16 00:00
+
+Action   :6      Event  :180  Logged    
+Access   :1      Access enabled         
+                 07/07/16  09:26:00 P:7 
+Coal Stock Yard                         
+
+Action   :5      Event  :179  Logged    
+                 Key Switch unlocked    
+                 07/07/16  09:25:39 P:7 
+Coal Stock Yard                         
+
+Action   :4      Event  :178  Logged    
+                 Silence Buzzer         
+                 07/07/16  09:23:32 P:7 
+Coal Stock Yard                         
+
+Fault    :3      Event  :177  Active    
+                 Tamper switch          
+                 07/07/16  09:23:30 P:7 
+Coal Stock Yard                         
+
+Action   :3      Event  :176  Logged    
+                 Silence Buzzer         
+                 02/07/16  05:45:28 P:7 
+Coal Stock Yard                         
+
+Fault    :2      Event  :175  Accepted  
+Zone     :7      Area   :0 
+Address  :1/5    Fault                  
+ZMU              02/07/16  05:45:15 P:7 
+Transfer House 4A                       
+Pressure switch                         
+
+Action   :2      Event  :174  Logged    
+                 Silence Buzzer         
+                 30/06/16  00:57:30 P:7 
+Coal Stock Yard                         
+
+Fault    :1      Event  :173  Accepted  
+Zone     :6      Area   :0 
+Address  :1/2    Fault                  
+ZMU              30/06/16  00:45:02 P:7 
+Transfer House 5A                       
+Pressure switch                         
+
+Action   :1      Event  :172  Logged    
+                 Reset                  
+                 30/06/16  00:44:47 P:7 
+Coal Stock Yard                         
+
+Action   :60     Event  :171  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:52:47 P:7 
+Coal Stock Yard                         
+
+Action   :59     Event  :170  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:52:10 P:7 
+Coal Stock Yard                         
+
+Action   :58     Event  :169  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:51:52 P:7 
+Coal Stock Yard                         
+
+Action   :57     Event  :168  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:51:10 P:7 
+Coal Stock Yard                         
+
+Action   :56     Event  :167  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:48:06 P:7 
+Coal Stock Yard                         
+
+Action   :55     Event  :166  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:47:34 P:7 
+Coal Stock Yard                         
+
+Action   :54     Event  :165  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:46:43 P:7 
+Coal Stock Yard                         
+
+Action   :53     Event  :164  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:45:54 P:7 
+Coal Stock Yard                         
+
+Action   :52     Event  :163  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:43:13 P:7 
+Coal Stock Yard                         
+
+Action   :51     Event  :162  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:41:11 P:7 
+Coal Stock Yard                         
+
+Action   :50     Event  :161  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:39:54 P:7 
+Coal Stock Yard                         
+
+Action   :49     Event  :160  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:39:00 P:7 
+Coal Stock Yard                         
+
+Action   :48     Event  :159  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:38:54 P:7 
+Coal Stock Yard                         
+
+Action   :47     Event  :158  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:37:22 P:7 
+Coal Stock Yard                         
+
+Action   :46     Event  :157  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:36:26 P:7 
+Coal Stock Yard                         
+
+Action   :45     Event  :156  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:35:33 P:7 
+Coal Stock Yard                         
+
+Action   :44     Event  :155  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:35:07 P:7 
+Coal Stock Yard                         
+
+Action   :43     Event  :154  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:33:36 P:7 
+Coal Stock Yard                         
+
+Action   :42     Event  :153  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:32:48 P:7 
+Coal Stock Yard                         
+
+Action   :41     Event  :152  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:31:59 P:7 
+Coal Stock Yard                         
+
+Action   :40     Event  :151  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:30:02 P:7 
+Coal Stock Yard                         
+
+Action   :39     Event  :150  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:28:51 P:7 
+Coal Stock Yard                         
+
+Action   :38     Event  :149  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:28:21 P:7 
+Coal Stock Yard                         
+
+Action   :37     Event  :148  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:27:17 P:7 
+Coal Stock Yard                         
+
+Action   :36     Event  :147  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:26:52 P:7 
+Coal Stock Yard                         
+
+Action   :35     Event  :146  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:26:16 P:7 
+Coal Stock Yard                         
+
+Action   :34     Event  :145  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:24:18 P:7 
+Coal Stock Yard                         
+
+Action   :33     Event  :144  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:23:36 P:7 
+Coal Stock Yard                         
+
+Action   :32     Event  :143  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:22:56 P:7 
+Coal Stock Yard                         
+
+Action   :31     Event  :142  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:22:24 P:7 
+Coal Stock Yard                         
+
+Action   :30     Event  :141  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:21:26 P:7 
+Coal Stock Yard                         
+
+Action   :29     Event  :140  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:21:07 P:7 
+Coal Stock Yard                         
+
+Action   :28     Event  :139  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:19:21 P:7 
+Coal Stock Yard                         
+
+Action   :27     Event  :138  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:18:34 P:7 
+Coal Stock Yard                         
+
+Action   :26     Event  :137  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:17:38 P:7 
+Coal Stock Yard                         
+
+Action   :25     Event  :136  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:15:00 P:7 
+Coal Stock Yard                         
+
+Action   :24     Event  :135  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:13:50 P:7 
+Coal Stock Yard                         
+
+Action   :23     Event  :134  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:13:19 P:7 
+Coal Stock Yard                         
+
+Action   :22     Event  :133  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:07:23 P:7 
+Coal Stock Yard                         
+
+Action   :21     Event  :132  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:06:24 P:7 
+Coal Stock Yard                         
+
+Action   :20     Event  :131  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:04:42 P:7 
+Coal Stock Yard                         
+
+Action   :19     Event  :130  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:04:08 P:7 
+Coal Stock Yard                         
+
+Action   :18     Event  :129  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  08:02:20 P:7 
+Coal Stock Yard                         
+
+Action   :17     Event  :128  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  08:01:37 P:7 
+Coal Stock Yard                         
+
+Action   :16     Event  :127  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  07:57:27 P:7 
+Coal Stock Yard                         
+
+Action   :15     Event  :126  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  07:56:42 P:7 
+Coal Stock Yard                         
+
+Action   :14     Event  :125  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  07:52:55 P:7 
+Coal Stock Yard                         
+
+Action   :13     Event  :124  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  07:52:29 P:7 
+Coal Stock Yard                         
+
+Action   :12     Event  :123  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  07:52:05 P:7 
+Coal Stock Yard                         
+
+Action   :11     Event  :122  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  07:51:15 P:7 
+Coal Stock Yard                         
+
+Action   :10     Event  :121  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  07:47:55 P:7 
+Coal Stock Yard                         
+
+Action   :9      Event  :120  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  07:47:06 P:7 
+Coal Stock Yard                         
+
+Action   :8      Event  :119  Logged    
+G-Rep.   :5      G-Repeater ok          
+                 28/06/16  07:46:01 P:7 
+Coal Stock Yard                         
+
+Action   :7      Event  :118  Logged    
+G-Rep.   :5      G-Repeater down        
+                 28/06/16  07:45:24 P:7 
+Coal Stock Yard                         
+
+Action   :6      Event  :117  Logged    
+                 Silence Buzzer         
+                 25/06/16  04:22:55 P:7 
+Coal Stock Yard                         
+
+Fault    :3      Event  :116  Logged    
+Zone     :7      Area   :0 
+Address  :1/5    Fault                  
+ZMU              25/06/16  04:15:01 P:7 
+Transfer House 4A                       
+Pressure switch                         
+
+Action   :5      Event  :115  Logged    
+                 Access disabled        
+                 23/06/16  08:12:59 P:7 
+Coal Stock Yard                         
+
+Action   :4      Event  :114  Logged    
+Access   :1      Access enabled         
+                 23/06/16  08:12:45 P:7 
+Coal Stock Yard                         
+
+Action   :3      Event  :113  Logged    
+                 Silence Buzzer         
+                 22/06/16  09:25:19 P:7 
+Coal Stock Yard                         
+
+Fault    :2      Event  :112  Logged    
+Zone     :7      Area   :0 
+Address  :1/4    Fault                  
+ZMU              22/06/16  09:19:12 P:7 
+Transfer House 4A                       
+Supervisory switch                      
+
+Action   :2      Event  :111  Logged    
+                 Silence Buzzer         
+                 22/06/16  07:49:11 P:7 
+Coal Stock Yard                         
+
+Fault    :1      Event  :110  Logged    
+Zone     :6      Area   :0 
+Address  :1/2    Fault                  
+ZMU              22/06/16  07:49:09 P:7 
+Transfer House 5A                       
+Pressure switch                         
+
+Action   :1      Event  :109  Logged    
+                 Reset                  
+                 22/06/16  07:48:55 P:7 
+Coal Stock Yard                         
+
+Action   :2      Event  :108  Logged    
+                 Silence Buzzer         
+                 21/06/16  05:17:08 P:7 
+Coal Stock Yard                         
+
+Fault    :1      Event  :107  Logged    
+Zone     :6      Area   :0 
+Address  :1/2    Fault                  
+ZMU              21/06/16  04:21:06 P:7 
+Transfer House 5A                       
+Pressure switch                         
+
+Action   :1      Event  :106  Logged    
+                 Reset                  
+                 20/06/16  00:55:05 P:7 
+Coal Stock Yard                         
+
+Action   :2      Event  :105  Logged    
+                 Silence Buzzer         
+                 16/06/16  05:30:58 P:7 
+Coal Stock Yard                         
+
+Fault    :1      Event  :104  Logged    
+Zone     :6      Area   :0 
+Address  :1/2    Fault                  
+ZMU              16/06/16  01:36:53 P:7 
+Transfer House 5A                       
+Pressure switch                         
+
+Action   :1      Event  :103  Logged    
+                 Reset                  
+                 15/06/16  09:11:45 P:7 
+Coal Stock Yard                         
+
+Action   :2      Event  :102  Logged    
+                 Silence Buzzer         
+                 11/06/16  21:01:15 P:7 
+Coal Stock Yard                         
+
+Fault    :1      Event  :101  Logged    
+Zone     :6      Area   :0 
+Address  :1/2    Fault                  
+ZMU              11/06/16  20:32:16 P:7 
+Transfer House 5A                       
+Pressure switch                         
+
+Action   :1      Event  :100  Logged    
+                 Reset                  
+                 11/06/16  20:32:02 P:7 
+Coal Stock Yard                         
+
+Action   :2      Event  :99   Logged    
+                 Silence Buzzer         
+                 08/06/16  03:22:51 P:7 
+Coal Stock Yard                         
+
+Fault    :1      Event  :98   Logged    
+Zone     :6      Area   :0 
+Address  :1/2    Fault                  
+ZMU              08/06/16  02:59:13 P:7 
+Transfer House 5A                       
+Pressure switch                         
+
+Action   :1      Event  :97   Logged    
+                 Reset                  
+                 07/06/16  14:32:59 P:7 
+Coal Stock Yard                         
+
+Action   :1      Event  :96   Logged    
+                 Reset                  
+                 07/06/16  08:16:21 P:7 
+Coal Stock Yard                         
+
+Action   :3      Event  :95   Logged    
+                 Silence Buzzer         
+                 07/06/16  04:26:42 P:7 
+Coal Stock Yard                         
+
+Fault    :2      Event  :94   Logged    
+Zone     :7      Area   :0 
+Address  :1/6    Fault                  
+ZMU              07/06/16  03:59:47 P:7 
+Transfer House 4A                       
+Breakglass                              
+
+Action   :2      Event  :93   Logged    
+                 Silence Buzzer         
+                 01/06/16  06:13:36 P:7 
+Coal Stock Yard                         
+
+Fault    :1      Event  :92   Logged    
+Zone     :6      Area   :0 
+Address  :1/2    Fault                  
+ZMU              01/06/16  01:35:10 P:7 
+Transfer House 5A                       
+Pressure switch                         
+
+Action   :1      Event  :91   Logged    
+                 Reset                  
+                 31/05/16  19:37:40 P:7 
+Coal Stock Yard                         
+
+Action   :1      Event  :90   Logged    
+                 Reset                  
+                 31/05/16  19:37:13 P:7 
+Coal Stock Yard                         
+
+Action   :1      Event  :89   Logged    
+                 Reset                  
+                 31/05/16  08:02:50 P:7 
+Coal Stock Yard                         
+
+Action   :4      Event  :88   Logged    
+                 Access disabled        
+                 31/05/16  08:02:47 P:7 
+Coal Stock Yard                         
+
+Action   :3      Event  :87   Logged    
+Access   :1      Access enabled         
+                 31/05/16  08:02:37 P:7 
+Coal Stock Yard                         
+
+Action   :2      Event  :86   Logged    
+                 Silence Buzzer         
+                 31/05/16  06:11:15 P:7 
+Coal Stock Yard                         
+
+Fault    :1      Event  :85   Logged    
+Zone     :6      Area   :0 
+Address  :1/2    Fault                  
+ZMU              31/05/16  05:51:06 P:7 
+Transfer House 5A                       
+Pressure switch                         
+
+Action   :1      Event  :84   Logged    
+                 Reset                  
+                 30/05/16  13:13:47 P:7 
+Coal Stock Yard                         
+
+Action   :4      Event  :83   Logged    
+                 Access disabled        
+                 30/05/16  13:13:44 P:7 
+Coal Stock Yard                         
+
+Action   :3      Event  :82   Logged    
+Access   :1      Access enabled         
+                 30/05/16  13:13:32 P:7 
+Coal Stock Yard                         
