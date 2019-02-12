@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/worms">
+        <file>Textures/Worms/WormL_1.bmp</file>
+        <file>Textures/Worms/WormR_1.bmp</file>
+    </qresource>
+    <qresource prefix="/bullets">
+        <file>Textures/Bullets/Airstrike.png</file>
+        <file>Textures/Bullets/Grenade.png</file>
+        <file>Textures/Bullets/Pistol.png</file>
+        <file>Textures/Bullets/Rocket.png</file>
+    </qresource>
+    <qresource prefix="/guns">
+        <file>Textures/Guns/ListImages/Airstrike.png</file>
+        <file>Textures/Guns/ListImages/Grenade.png</file>
+        <file>Textures/Guns/ListImages/Psitol.png</file>
+        <file>Textures/Guns/ListImages/Punch.png</file>
+        <file>Textures/Guns/ListImages/RocketLauncher.png</file>
+        <file>Textures/Guns/ListImages/Teleport.png</file>
+    </qresource>
+</RCC>
