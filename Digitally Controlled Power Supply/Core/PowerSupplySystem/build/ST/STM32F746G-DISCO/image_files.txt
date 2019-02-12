@@ -1,0 +1,13 @@
+assets/images/GraphImage.png
+assets/images/Down_arrow_48.png
+assets/images/Blue_Icons_Up_arrow_48.png
+assets/images/Blue_Buttons_Round_Edge_icon_button_pressed.png
+assets/images/Blue_Icons_Power_48.png
+assets/images/Round_Edge_icon_button_pressed.png
+assets/images/Green_Bolt.png
+assets/images/Blue_Buttons_Round_Edge_icon_button.png
+assets/images/Blue_Icons_Down_arrow_48.png
+assets/images/Red_Bolt.png
+assets/images/Up_arrow_48.png
+assets/images/Background_Rev1.png
+assets/images/Round_Edge_icon_button.png

@@ -1,0 +1,20 @@
+{
+  "Name" : "STM32F746G-DISCO",
+  "VendorName" : "ST",
+  "CompileTargetCmd" : "make -f target/ST/STM32F746G-DISCO/gcc/Makefile -j8",
+  "FlashTargetCmd" : "make -f target/ST/STM32F746G-DISCO/gcc/Makefile -j8 flash",
+  "Description" : "",
+  "Resolutions": [
+    {
+      "DisplayWidth": 480,
+      "DisplayHeight": 272
+    }
+  ],
+  "ColorDepths": 
+  [
+    16,24
+  ],               
+  "PhysicalButtons" : 
+  [
+  ]
+}
