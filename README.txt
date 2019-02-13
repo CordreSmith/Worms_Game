@@ -1,11 +1,10 @@
-Good day,
+This is a basic game that I developed based on the classic worms game. This was done for a project during my third year of studies. 
+The game was developed utilizing the QT Creator IDE.
 
-I am a graduated Computer Electronic Engineer from North-West University Potchefstroom Campus. I am currently working as a Control and Instrumentation Engineer at Eskom Holdings SOC Ltd. 
+The game included:
+- Multiple weapons, achieved by implemeting Inheritance and Polymorphism;
+- Multiplayer, achieved by using the UDP protocol via a LAN connection;
+- Terrain Destruction.
 
-Even though I am currently working as a Control and Instrumentation Engineer my actual passion is Software Development. I am always trying to learn more and trying new languages. The main languages that I work with are C/C++, C# and VB. I also have experience in Phyton, HTML, CSS and PHP. IDE's that I have worked with is Delphi 7, Visual Studios, QT and Anaconda. 
-
-In this Repository, you'll find all the major development projects that I have done. For me the two most impressive projects I have worked on is the Worms Game and my Interface for the Digitally Controlled Variable Power Supply, both these can be seen in this repository. 
-
-Thank you for having a look at my Portfolio, if you have any comments you can contact me on smithcordre@gmail.com.
-
-Kind regards.
+This project still needs finishing touches. It was done during my third year of studies.
+Currently no installer available therefor one needs QT to run it. Creating an easy installer is the next step.
