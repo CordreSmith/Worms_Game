@@ -1,1 +1,0 @@
-My Final Year Project was the development of a Digitally Controlled Bench Top Variable Power Supply.
